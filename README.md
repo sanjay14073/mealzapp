@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Mealz, a Kotlin-based Android application designed to provide users with a delightful experience in discovering and exploring a variety of vegetarian dishes. Mealz leverages the MVVM (Model-View-ViewModel) architecture for a clean and scalable codebase, utilizes Retrofit for efficient API calls, and employs Coil for seamless image loading. Whether you're a seasoned vegetarian or someone looking to explore meat-free options, Mealz has got you covered.
+Welcome to Mealz, a Kotlin-based Android application designed to provide users with a delightful experience in discovering and exploring a variety of vegetarian dishes. Mealz leverages the MVVM (Model-View-ViewModel) architecture for a clean and scalable codebase, utilizes Retrofit for efficient API calls, and employs Coil for seamless image loading. Whether you're a seasoned vegetarian or someone looking to explore meat-free options, Mealz has got you covered.Use of retrofit.
 
 ## Features
 
